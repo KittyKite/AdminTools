@@ -45,4 +45,4 @@ A windows administrative programs pack
 
 - Malwarebytes - alternative free antivirus agent
 
-KittyKite <3
+None of these programs were created by me, I do not claim to be their creator, I only bundled them together into a convenient package.
